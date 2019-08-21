@@ -1,0 +1,11 @@
+INPUT
+map data/maps/smallMaps.sqlite3
+suggest C
+suggest c
+suggest yubaba St
+suggest yubaba st
+OUTPUT
+map set to data/maps/smallMaps.sqlite3
+Chihiro Ave
+Yubaba St
+END

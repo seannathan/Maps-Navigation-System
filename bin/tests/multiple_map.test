@@ -1,0 +1,10 @@
+INPUT
+map data/maps/maps.sqlite3
+suggest upper spide
+map data/maps/smallMaps.sqlite3
+suggest upper spide
+OUTPUT
+map set to data/maps/maps.sqlite3
+upper spider
+map set to data/maps/smallMaps.sqlite3
+END

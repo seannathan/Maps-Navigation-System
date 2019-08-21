@@ -1,0 +1,11 @@
+INPUT
+map data/maps/smallMaps
+map smallMaps.sqlite3
+map small data/maps/smallMaps.sqlite3
+map data/bacon/empty.sqlite3
+OUTPUT
+ERROR:
+ERROR:
+ERROR:
+ERROR:
+END

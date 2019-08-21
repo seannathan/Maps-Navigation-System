@@ -1,0 +1,12 @@
+INPUT
+map data/maps/maps.sqlite3
+suggest Lynn
+suggest lynn
+OUTPUT
+map set to data/maps/maps.sqlite3
+Lynn Circle
+Lynne Lane
+Lynn Drive
+Lynn Ave
+Lynn Lane
+END

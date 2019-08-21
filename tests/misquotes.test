@@ -1,0 +1,11 @@
+INPUT
+map data/maps/smallMaps.sqlite3
+route Sootball Ln Chihiro Ave Sootball Ln Yubaba St
+route Sootball Chihiro Sootball Yubaba
+route "Sootball Ln Chihiro Ave" "Sootball Ln Yubaba St"
+OUTPUT
+map set to data/maps/smallMaps.sqlite3
+ERROR:
+ERROR:
+ERROR:
+END
