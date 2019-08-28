@@ -8,7 +8,7 @@ drawing and HTML/CSS for the barebones display.
 DESIGN DETAILS
 For map, we use the database loading from Bacon to create a connection to the passed in database, create a corpus for autocorrect out of street names, and get the nodes for the KDTree for nearest.
 
-For ways, we use a sequel query to find all ways within a bounding box.
+For ways, we use a SQL query to find all ways within a bounding box.
 
 For nearest, we use the KDTree to search for the nearest neighbor to a given coordinate.
 
